@@ -12,4 +12,5 @@ node index.js demo-file-name.dem
 ```
 
 #preview
-https://i.imgur.com/iHmn2SG.png
+![preview](https://i.imgur.com/iHmn2SG.png)
+
