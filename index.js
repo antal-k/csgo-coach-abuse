@@ -4,7 +4,11 @@ const demofile = require("demofile");
 const players = [];
 const playerInfos = {};
 
-fs.readFile("gambit-youngsters-vs-ago-m1-dust2.dem", (err, buffer) => {
+if(!process.argv[2]) {
+    console.log(`\x1b[31mDemo not presented.\x1b[37m`);
+    process.exit(0);
+}
+fs.readFile(process.argv[2], (err, buffer) => {
     const demoFile = new demofile.DemoFile();
 
     demoFile.gameEvents.on("round_start", e => {
