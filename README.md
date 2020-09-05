@@ -1,4 +1,4 @@
-# csgo-coach-abuse
+# csgo-coach-abuse - for avoid false positive, check the demo too!
 
 # install 
 ```
