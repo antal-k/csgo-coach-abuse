@@ -2,6 +2,7 @@
 
 # install 
 ```
+install nodejs >12
 npm i
 ```
 
