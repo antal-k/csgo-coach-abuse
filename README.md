@@ -5,12 +5,12 @@
 npm i
 ```
 
-#usage
+# usage
 
 ```
 node index.js demo-file-name.dem
 ```
 
-#preview
+# preview
 ![preview](https://i.imgur.com/iHmn2SG.png)
 
