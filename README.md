@@ -16,3 +16,6 @@ from [match](https://www.hltv.org/matches/2339647/gambit-youngsters-vs-ago-oga-c
 
 ![preview](https://i.imgur.com/iHmn2SG.png)
 
+# credits
+  [antal](https://twitter.com/justBadAntal)
+  [demofile](https://github.com/saul/demofile)
